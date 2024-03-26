@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.questions {
+    list-style: none;
+    padding: 0;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 2rem;
+}
