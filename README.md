@@ -11,6 +11,12 @@ Difficulty Level: Choose from Beginner, Intermediate, or Experienced difficulty 
 
 Integration with Gemini: Leverages the power of Gemini, a large language model, to generate relevant interview questions. I have made use of the 'gemini-pro' model.
 
+Gemini-Pro is a powerful multimodal large language model developed by Google DeepMind. It excels at various tasks, including text generation, translation, and code analysis. Notably, Gemini-Pro offers several advantages for this application:
+
+Superior Performance: Compared to previous models like PaLM 2, Gemini-Pro demonstrates superior performance on a range of benchmarks, making it a strong choice for complex language processing tasks.
+Multimodality: Unlike text-only models, Gemini-Pro can process and understand information across different modalities, such as text, images, and code. This allows for a more nuanced understanding of interview topics and potentially leads to more diverse and relevant question generation.
+Scalability: Designed for scalability, Gemini-Pro efficiently handles large amounts of data and complex tasks. This ensures the application can generate a sufficient number of interview questions efficiently.
+
 This project provides a user-friendly interface to connect with Gemini and generate interview questions efficiently.
 
 Getting Started
