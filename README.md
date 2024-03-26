@@ -6,7 +6,9 @@ This Flask web application helps users generate interview questions(with answers
 ## Features:
 
 Number of Questions: Specify the desired number of questions to be generated.
+
 Keywords: Enter comma-separated keywords related to the interview topic.
+
 Difficulty Level: Choose from Beginner, Intermediate, or Experienced difficulty levels to tailor the questions.
 
 ## Integration with Gemini: 
