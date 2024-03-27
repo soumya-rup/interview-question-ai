@@ -26,7 +26,7 @@ This project provides a user-friendly interface to connect with Gemini and gener
 
 ## Getting Started
 
-Run the bash script to install the dependencies from your terminal using the command - pip install -r requirements.txt
+To install the dependencies, use the following command in your terminal - pip install -r requirements.txt
 
 Once all the dependencies have been installed successfully you can run the python file app.py using the command - python app.py
 
