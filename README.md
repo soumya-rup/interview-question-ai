@@ -49,13 +49,13 @@ Select the appropriate difficulty level.
 
 Click the "Generate Questions" button.
 
-### Important note-
-
-The API key used in the above project is disabled and will not work. Please generate your own API key on Google AI Studio and replace it with the one in the config file so the project works for you
-
 ## Benefits
 Streamline interview preparation by generating relevant questions quickly.
 
 Customize difficulty levels to match candidate experience.
 
 Improve interview quality with diverse question types.
+
+### Important note-
+
+The API key used in the above project is disabled and will not work. Please generate your own API key on Google AI Studio and replace it with the one in the config file so the project works for you. :)
