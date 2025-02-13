@@ -1,1 +1,2 @@
-GEMINI_API_KEY = "ENTER YOUR API KEY HERE"
+GEMINI_API_KEY ="yourgeminikey"
+
